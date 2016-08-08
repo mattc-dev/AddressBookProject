@@ -20,7 +20,7 @@ namespace AddressBook.Models
         public string City { get; set; }
 
         [Required]
-        [StringLength(2, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 2)]
+        [StringLength(2, ErrorMessage = "The {0} must be {2} characters long.", MinimumLength = 2)]
         public string State { get; set; }
     }
 }
