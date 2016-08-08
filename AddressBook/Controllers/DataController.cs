@@ -1,7 +1,5 @@
 ﻿using AddressBook.DAL;
 using AddressBook.Models;
-using System;
-using System.Collections.Generic;
 using System.Web.Http;
 using System.Web.Mvc;
 
