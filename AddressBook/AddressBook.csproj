@@ -290,9 +290,6 @@
     <Content Include="Icons\pe-icon-7-stroke\css\helper.css" />
     <Content Include="Icons\pe-icon-7-stroke\css\pe-icon-7-stroke.css" />
     <Content Include="Icons\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.svg" />
-    <Content Include="ApplicationInsights.config">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="Icons\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.eot" />
     <Content Include="Icons\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.ttf" />
     <Content Include="Icons\pe-icon-7-stroke\fonts\Pe-icon-7-stroke.woff" />
